@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>znak389.JPG</filename>
+	<path>C:\Users\Barbara\Desktop\fer\6.sem\zavrsni\Tensorflow\data\train\znak389.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>828</width>
+		<height>1364</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pješački prijelaz</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>704</xmin>
+			<ymin>646</ymin>
+			<xmax>800</xmax>
+			<ymax>743</ymax>
+		</bndbox>
+	</object>
+</annotation>

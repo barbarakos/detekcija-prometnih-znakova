@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>znak326.jpg</filename>
+	<path>C:\Users\Barbara\Desktop\fer\6.sem\zavrsni\Tensorflow\data\train\znak326.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>777</width>
+		<height>507</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ograničenje brzine 60</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>518</xmin>
+			<ymin>109</ymin>
+			<xmax>628</xmax>
+			<ymax>220</ymax>
+		</bndbox>
+	</object>
+</annotation>

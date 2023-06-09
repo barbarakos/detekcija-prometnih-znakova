@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>znak099.JPG</filename>
+	<path>C:\Users\Barbara\Desktop\fer\6.sem\zavrsni\Tensorflow\data\train\znak099.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>828</width>
+		<height>1220</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Divljač na cesti</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>420</xmin>
+			<ymin>775</ymin>
+			<xmax>504</xmax>
+			<ymax>857</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Obavezno zaustavljanje</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>642</xmin>
+			<ymin>820</ymin>
+			<xmax>667</xmax>
+			<ymax>901</ymax>
+		</bndbox>
+	</object>
+</annotation>

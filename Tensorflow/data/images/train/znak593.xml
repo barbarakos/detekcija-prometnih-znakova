@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>znak593.JPG</filename>
+	<path>C:\Users\Barbara\Desktop\fer\6.sem\zavrsni\Tensorflow\data\train\znak593.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>828</width>
+		<height>948</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Zabrana pretjecanja</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>408</xmin>
+			<ymin>567</ymin>
+			<xmax>481</xmax>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+</annotation>

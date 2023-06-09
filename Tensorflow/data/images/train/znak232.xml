@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>znak232.JPG</filename>
+	<path>C:\Users\Barbara\Desktop\fer\6.sem\zavrsni\Tensorflow\data\train\znak232.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>622</width>
+		<height>926</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ograničenje brzine 40</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>295</xmin>
+			<ymin>416</ymin>
+			<xmax>402</xmax>
+			<ymax>540</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>znak387.JPG</filename>
+	<path>C:\Users\Barbara\Desktop\fer\6.sem\zavrsni\Tensorflow\data\train\znak387.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>572</width>
+		<height>366</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ograničenje brzine 70</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>127</xmin>
+			<ymin>163</ymin>
+			<xmax>185</xmax>
+			<ymax>223</ymax>
+		</bndbox>
+	</object>
+</annotation>

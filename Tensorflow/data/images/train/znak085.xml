@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>znak085.JPG</filename>
+	<path>C:\Users\Barbara\Desktop\fer\6.sem\zavrsni\Tensorflow\data\train\znak085.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>828</width>
+		<height>1239</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ograničenje brzine 40</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>398</xmin>
+			<ymin>757</ymin>
+			<xmax>479</xmax>
+			<ymax>838</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Divljač na cesti</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>240</xmin>
+			<ymin>845</ymin>
+			<xmax>295</xmax>
+			<ymax>894</ymax>
+		</bndbox>
+	</object>
+</annotation>

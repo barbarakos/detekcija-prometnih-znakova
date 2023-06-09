@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>znak155.JPG</filename>
+	<path>C:\Users\Barbara\Desktop\fer\6.sem\zavrsni\Tensorflow\data\train\znak155.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>694</width>
+		<height>766</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Obavezno zaustavljanje</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>218</xmin>
+			<ymin>258</ymin>
+			<xmax>285</xmax>
+			<ymax>328</ymax>
+		</bndbox>
+	</object>
+</annotation>

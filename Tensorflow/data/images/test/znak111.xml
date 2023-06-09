@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>znak111.jpg</filename>
+	<path>C:\Users\Barbara\Desktop\fer\6.sem\zavrsni\Tensorflow\data\train\znak111.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>828</width>
+		<height>853</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Divljač na cesti</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>552</xmin>
+			<ymin>264</ymin>
+			<xmax>708</xmax>
+			<ymax>410</ymax>
+		</bndbox>
+	</object>
+</annotation>
